@@ -1,0 +1,36 @@
+# basic
+title: w
+subtitle: you find me!
+favicon: favicon.ico
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: C:\Users\Administrator\Documents\GitHub\a-w-w\source\images/avatar.png
+banner_small: C:\Users\Administrator\Documents\GitHub\a-w-w\source\images/banner-small.png
+banner_large: C:\Users\Administrator\Documents\GitHub\a-w-w\source\images/banner-large.png
+
+# disqus
+disqus_shortname: 翔鶴suki
+
+# social
+social:
+  github: https://github.com/a-w-w/
+  twitter: https://twitter.com/DrakeLeung
+  weibo: http://weibo.com/cha12chalyc
+
+# nav #
+nav:
+  home: .
+  archive: archives
+  # about: about
+  rss: atom.xml
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+
+google_analytics: # Put tracking ID here
